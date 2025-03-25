@@ -1,6 +1,4 @@
-# ai_meeting
-smart_meeting
-# 智能会议分析系统 API 文档
+# 智能会议分析
 
 ## 概述
 本文档遵循 OpenAPI 3.0 规范，包含系统所有接口的详细说明。
